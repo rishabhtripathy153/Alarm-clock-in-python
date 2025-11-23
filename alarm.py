@@ -9,7 +9,7 @@ alarm_minute=time[3:5]
 alarm_period=time[6:8]
 
 
-print(" Setiing alarm .............")
+print(" Setiing alarm ..............")
 print("Alarm set ")
 
 
