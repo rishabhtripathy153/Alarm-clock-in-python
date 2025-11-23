@@ -29,9 +29,9 @@ Works on Windows, macOS, and Linux
 📂 Project Structure (Example)
 
 alarm-CLOCK-IN-PYTHON/
-├── alarm.py
-├── Audio.wav
-└── README.md
+<br>├── alarm.py
+<br>├── Audio.wav
+<br>└── README.md
 
 
 ---
