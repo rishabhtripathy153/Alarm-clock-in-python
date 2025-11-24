@@ -2,15 +2,13 @@
 This project is a simple alarm clock that lets users set a time and get notified when the alarm rings. It helps remind users of important tasks or wake them up on time.
 <br>
 
-⏰ Python Alarm Program
+Python Alarm Program
 
 A simple and customizable Alarm Clock program in Python.
 It allows the user to set a specific time, and the program will notify/play a sound when the time is reached.
 
 
----
-
-🚀 Features
+ Features
 
 Set alarm time in HH:MM 12 HRS format
 
@@ -23,10 +21,7 @@ Simple, lightweight, and easy to modify
 Works on Windows, macOS, and Linux
 
 
-
----
-
-📂 Project Structure (Example)
+ Project Structure (Example)
 
 alarm-CLOCK-IN-PYTHON/
 <br>├── alarm.py
@@ -36,7 +31,7 @@ alarm-CLOCK-IN-PYTHON/
 
 ---
 
-🛠 Requirements
+Requirements
 
 Make sure you have:
 
@@ -55,7 +50,7 @@ pip install playsound
 
 ---
 
-▶ How to Run
+How to Run
 
 1. Clone or download the project:
 
@@ -74,22 +69,20 @@ python alarm.py
 
 
 
----
-
-📌 Example Usage
+Example Usage
 
 Enter time for alarm (HH:MM,AM/PM): 06:30,AM
 
 
 
 
-📝 Notes
+Notes
 
 Time must be entered exactly in correct format.
 
 You can replace the audio file with any audio you prefer.
 
----
+
 
 
 
